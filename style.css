@@ -127,7 +127,7 @@ main .left .line {
 
 .skills .language {
     margin-left: 40px;
-    font-style: italic;
+    /* font-style: italic; */
     color: #666;
     margin-bottom: 3px;
     font-size: 14px;
