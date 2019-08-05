@@ -354,7 +354,8 @@ footer a {
 }
 
 .important {
-    color: #FF5700
+    color: #FF5700;
+    font-weight: bold;
 }
 
 .background {
